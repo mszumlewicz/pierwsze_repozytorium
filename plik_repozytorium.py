@@ -17,7 +17,7 @@ lista3=[100,101,102,103,104,105]
 liczba3=5
 wynik3=liczba_do_elementu_listy(liczba3, lista3)
 print(wynik3)
-lista4=[1000,2000,3000]
+lista4=[1000,2000,3000,4000]
 liczba4=100
 wynik4=liczba_do_elementu_listy(liczba4, lista4)
 print(wynik4)
